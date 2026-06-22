@@ -3,7 +3,8 @@
 I am a fullstack developer focused on building practical web applications from backend to frontend.
 
 I am currently following the fullstack path. I enjoy working across APIs, databases, UI, and deployment so I can ship complete products.
-
+![alt text](Gemini_Generated_Image_2htqf12htqf12htq.png)
+Nothing is impossible
 ## About Me
 
 - Fullstack mindset: backend, frontend, database, and deployment
